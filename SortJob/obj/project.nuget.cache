@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "nEGBZ4qDV9dZWP7K+NPoD382COxX/B5bHKhec7+cbjQqDIrDTW1zCRQ9CY4K2icp0nP815mdaian6LqBAZkRkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\106009\\source\\repos\\SortJob\\SortJob\\SortJob.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\106009\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.8\\microsoft.aspnetcore.jsonpatch.3.1.8.nupkg.sha512",
+    "C:\\Users\\106009\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.8\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.8.nupkg.sha512",
+    "C:\\Users\\106009\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\106009\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\106009\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
